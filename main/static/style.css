@@ -1,0 +1,135 @@
+.about{
+
+    /*background-image: url("images/water-lily.jpg");*/
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-color: rgba(255, 255, 255, 0.5);*/
+
+
+}
+body{
+    background-color: black;
+    margin-left: 100px;
+}
+p{
+    color: white;
+}
+
+.about {
+    width:100%;
+    height: 200px;
+}
+.slider{
+    height: 300px;
+    width: 100%;
+}
+
+.services{
+    width: 100%;
+     height: 300px;
+}
+
+.info{
+    display: flex;
+    align-items: end;
+}
+.list{
+    color: chartreuse;
+}
+
+.main{
+    width: 50%;
+    margin-top: 50px;
+}
+
+.slider{
+    background-color: black;
+}
+
+.services{
+    background-color: black;
+}
+
+.pic{
+    height: 250px;
+}
+
+.slid{
+    border-radius: 10px;
+}
+
+.para{
+    padding-top: 80px;
+    padding-right: 80px;
+}
+.bg{
+    display: flex;
+  align-items: center
+}
+
+.outline
+{
+    color: Black;  /* Set the text color to white */
+    text-shadow:
+        -1px -1px 0 chartreuse,   /* Top left */
+        1px -1px 0 chartreuse,    /* Top right */
+        -1px 1px 0 chartreuse,    /* Bottom left */
+        1px 1px 0 chartreuse;     /* Bottom right */
+
+}
+
+.button{
+    background-color: chartreuse;
+    border-radius: 10px;
+}
+
+.area{
+    border-radius: 10px;
+    background-color: lightgray;
+    border: chartreuse;
+}
+
+/*.horizontal{*/
+/*    color: chartreuse;*/
+/*}*/
+
+.rounded-column{
+    border-radius: 10px;
+    border-style: solid;
+}
+.container{
+    margin: 10px;
+    background-color: black;
+    font-family: sans-serif;
+}
+.message{
+    width: 400px;
+    height: 200px;
+    background-color: gray;
+
+}
+.phone{
+    background-color: gray;
+}
+.email{
+    background-color: gray;
+}
+.name{
+    background-color: gray;
+}
+.subject{
+    background-color: gray;
+}
+
+.input{
+    border-radius: 20px;
+}
+
+.size{
+    margin: 100px;
+
+}
+.p{
+    color: whitesmoke;
+}
